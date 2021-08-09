@@ -1,0 +1,6 @@
+[project]
+name = "QuizApp"
+requirements = []
+[contracts.Quiz]
+path = "contracts/Quiz.clar"
+depends_on = []
