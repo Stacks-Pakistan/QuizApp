@@ -1,6 +1,6 @@
 # Quiz App Smart Contract
 
-Smart Contract written in the Clarity Language (The official language for Stacks Ecosystem) for the Quiz App
+Smart Contract written in Clarity Language for a Quiz App
 
 ## DEPENDENCIES
 
